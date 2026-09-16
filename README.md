@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 7 problems · 0 labs · 3 math
+**11** solved · 7 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-15 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-15 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-15 | [solution](math/0019-probability-fundamentals) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-16 | [solution](math/0012-inverse-and-rank) |
 
 ---
 
